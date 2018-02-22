@@ -1,6 +1,3 @@
-Position, Name, Age, Rookie Year, Pot, FIQ, Dur, Attr1, Attr2, Attr3, Contract Money, Contract Years
-
-
 Baltimore Ravens,BAL
 OL,Morgan Cox,31,2010,69,73,83,64,51,66,0.7,4
 WR,Benjamin Watson,37,2004,68,82,76,80,75,73,2.2,1
